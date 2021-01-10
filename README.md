@@ -17,5 +17,5 @@ __Create Html Cookie__
 ```javascript
   const LuckyJS = require('luckyjs');
   
-  let x = LuckyJS.createCookie(<cookieName>, <cookieValue>, <daysToExpire>)
+  LuckyJS.createCookie(<cookieName>, <cookieValue>, <daysToExpire>)
 ```
