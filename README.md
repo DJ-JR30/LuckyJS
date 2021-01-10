@@ -15,7 +15,7 @@ How to use
 
 __Create Html Cookie__
 ```javascript
-  const Cookie = require('luckyjs');
+  const LuckyJS = require('luckyjs');
   
-  let x = Cookie.createCookie(<cookieName>, <cookieValue>, <daysToExpire>)
+  let x = LuckyJS.createCookie(<cookieName>, <cookieValue>, <daysToExpire>)
 ```
