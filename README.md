@@ -22,7 +22,7 @@ Cookies are mainly used in websites to check if there is a session open or need 
 
 __Create Cookie__
 ```javascript
-  LuckyJS.createCookie(<cookieName>, <cookieValue>, <daysToExpire>)
+  LuckyJS.createCookie(<cookieName>, <cookieValue>, <daysToExpire>);
 ```
 
 __Access Cookie__
